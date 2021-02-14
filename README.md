@@ -1,3 +1,0 @@
-# xochitl-vargasart.github.io
-
-
