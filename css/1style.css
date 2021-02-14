@@ -11,16 +11,17 @@ background-size: cover;
 }
 
 h1 {
-    color:blueviolet
+    color:blueviolet;
 }
 
 p {
-    color:cornflowerblue
+    color:cornflowerblue;
 }
 hr {
-    border-color:#F05F44;    
-    border-width: 3px;
-    max-width: 65 px;
+    border-color:#F05F44 !important;    
+    border-width: 3px !important; 
+    max-width: 65px !important; 
+    
 }
 
 .buffer{
